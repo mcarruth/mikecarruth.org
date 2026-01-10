@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Michael Carruth</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Courier New', monospace;
+            line-height: 1.6;
+            background: #0a0a0a;
+            color: #e0e0e0;
+            padding: 40px 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        header {
+            border-bottom: 2px solid #333;
+            padding-bottom: 20px;
+            margin-bottom: 40px;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+            color: #fff;
+        }
+
+        .bio {
+            color: #999;
+            margin-bottom: 30px;
+            font-size: 0.95rem;
+        }
+
+        .links {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .links a {
+            color: #fff;
+            text-decoration: none;
+            border: 1px solid #333;
+            padding: 8px 16px;
+            transition: all 0.2s;
+            font-size: 0.9rem;
+        }
+
+        .links a:hover {
+            background: #fff;
+            color: #0a0a0a;
+            border-color: #fff;
+        }
+
+        section {
+            margin-bottom: 50px;
+        }
+
+        h2 {
+            font-size: 1.2rem;
+            font-weight: 700;
+            margin-bottom: 20px;
+            color: #fff;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .project {
+            margin-bottom: 30px;
+            padding-bottom: 30px;
+            border-bottom: 1px solid #1a1a1a;
+        }
+
+        .project:last-child {
+            border-bottom: none;
+        }
+
+        .project h3 {
+            font-size: 1.1rem;
+            margin-bottom: 8px;
+            color: #fff;
+        }
+
+        .project h3 a {
+            color: #fff;
+            text-decoration: none;
+            border-bottom: 1px solid #333;
+            transition: border-color 0.2s;
+        }
+
+        .project h3 a:hover {
+            border-color: #fff;
+        }
+
+        .project p {
+            color: #999;
+            font-size: 0.9rem;
+            margin-bottom: 10px;
+        }
+
+        .project .meta {
+            font-size: 0.85rem;
+            color: #666;
+        }
+
+        .note {
+            background: #111;
+            border-left: 2px solid #333;
+            padding: 15px;
+            margin-bottom: 30px;
+            font-size: 0.9rem;
+            color: #888;
+        }
+
+        footer {
+            margin-top: 60px;
+            padding-top: 20px;
+            border-top: 2px solid #333;
+            font-size: 0.85rem;
+            color: #666;
+            text-align: center;
+        }
+
+        @media (max-width: 600px) {
+            body {
+                padding: 30px 15px;
+            }
+
+            h1 {
+                font-size: 2rem;
+            }
+
+            .links {
+                flex-direction: column;
+            }
+
+            .links a {
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Michael Carruth</h1>
+        <div class="bio">
+            <p>Engineering leader with 20+ years at Amazon and Microsoft. I step into ambiguous, high-risk situations—broken platforms, fragmented teams, flawed assumptions—and leave systems meaningfully better. I focus on building durable platforms, turning operational chaos into measurable systems, and developing technical leaders. Still writing code and learning new stacks.</p>
+        </div>
+        <div class="links">
+            <a href="mailto:mikecarruth@gmail.com">Email</a>
+            <a href="https://github.com/mcarruth" target="_blank" rel="noopener">GitHub</a>
+            <a href="https://www.linkedin.com/in/mikecarruth/" target="_blank" rel="noopener">LinkedIn</a>
+            <a href="https://tinyurl.com/mikecarruth-resume-txt" target="_blank" rel="noopener">Resume (txt)</a>
+            <a href="https://tinyurl.com/mikecarruth-resume-pdf" target="_blank" rel="noopener">Resume (pdf)</a>
+        </div>
+    </header>
+
+    <main>
+        <section>
+            <h2>Projects</h2>
+
+            <div class="project">
+                <h3><a href="https://github.com/mcarruth/flickr-portfolio-nextjs" target="_blank" rel="noopener">flickr-portfolio-nextjs</a></h3>
+                <p>A modern, cinematic photography portfolio that automatically syncs with your Flickr account. Upload photos to Flickr, tag them as "portfolio", and they instantly appear on your website. No manual uploading, no databases, no hassle.</p>
+                <div class="meta">Next.js · React · Flickr API · <a href="https://www.theunmarkedroad.com/" target="_blank" rel="noopener" style="color: #999; text-decoration: underline;">View Demo</a></div>
+            </div>
+
+            <div class="project">
+                <h3><a href="https://github.com/mcarruth/crash-report" target="_blank" rel="noopener">CrashRpt</a></h3>
+                <p>A lightweight C++ crash reporting framework for Windows applications that automatically intercepts unhandled exceptions, generates comprehensive debug reports, and optionally sends them to developers via email or HTTP. Featured on CodeProject.</p>
+                <div class="meta">C++ · Windows · Exception Handling · <a href="https://main.codeproject.com/articles/Add-Crash-Reporting-to-Your-Applications-with-the-" target="_blank" rel="noopener" style="color: #999; text-decoration: underline;">Read Article</a></div>
+            </div>
+        </section>
+
+        <section>
+            <h2>Archives</h2>
+
+            <div class="note">
+                Earlier implementations of the Flickr portfolio concept while learning different stacks.
+            </div>
+
+            <div class="project">
+                <h3><a href="https://github.com/mcarruth/flickr-portfolio" target="_blank" rel="noopener">flickr-portfolio</a></h3>
+                <p>Python/Flask implementation. Syncs with Flickr to display photos, albums, and geotagged images in a mobile-friendly portfolio.</p>
+                <div class="meta">Python · Flask · Flickr API</div>
+            </div>
+
+            <div class="project">
+                <h3><a href="https://github.com/mcarruth/flogr" target="_blank" rel="noopener">flogr</a></h3>
+                <p>PHP implementation. Displays public Flickr photos in a customizable gallery hosted on your website.</p>
+                <div class="meta">PHP · Flickr API</div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>mikecarruth.org</p>
+    </footer>
+</body>
+</html>
