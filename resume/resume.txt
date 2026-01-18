@@ -1,0 +1,61 @@
+MICHAEL CARRUTH
+Engineering & Product Leader
+
+mikecarruth@gmail.com • 425.736.4514 • linkedin.com/in/mikecarruth
+
+SUMMARY
+
+Engineering and product leader who specializes in fixing what’s broken, building what’s missing, and stabilizing what’s failing. With 20+ years at Amazon and Microsoft, I’ve stepped into ambiguous, high-risk situations to reframe assumptions, design platforms, and create durable systems and teams with lasting business impact.
+
+EXPERIENCE
+
+Senior Software Development Manager, Amazon (2020-2022)
+Device Software & Services (Setup, Connectivity, and IoT Platforms)
+
+- Reframed the business case for a new hardware product three months before launch by challenging a flawed revenue model, preserving an $8M investment and enabling on-time launch.
+- Drove adoption of a new accessory device revenue model based on real customer acquisition data, changing how Devices evaluates product viability.
+- Led a two-week recovery of a failed beta launch by shifting diagnosis from lab accuracy to customer trust, redesigning firmware behavior and raising ratings from 2 to 4.5 stars.
+- Orchestrated expansion of Amazon’s global device setup and messaging stack, scaling it to support 100M+ concurrent device connections while cutting latency by over 50% in India.
+- Built durable operational and talent mechanisms (ops reviews, calibration, succession planning) that stabilized execution and improved promotion and retention outcomes.
+
+Senior Software Development Manager, Amazon (2019-2020)
+Advertising Platform (Sponsored Brand Ads)
+
+- Scaled Sponsored Brands and Sponsored Video Ads platforms supporting multi-billion-dollar annual revenue, growing the organization from 50 to 75+ engineers across two sites.
+- Launched Advertiser Strategies, unlocking 25%+ year-over-year growth in advertiser spend by improving campaign optimization and targeting.
+- Embedded operational rigor and delivery predictability to a rapidly growing, changing organization.
+
+Senior Software Development Manager, Amazon (2014–2019)
+Devices Software & Services (Offline Retail Platform)
+
+- Drove Amazon’s offline retail platform, enabling device sales across 15 countries across 500 retailers.
+- Architected the platform that enabled Amazon’s first 100+ physical retail kiosks and in-store sales programs (malls, Kohl’s, Whole Foods, airports, 4-Star).
+- Automated manual S&OP planning systems, cutting planning costs 75%, reducing cycles from monthly to daily, and halving out-of-stock rates.
+- Resurrected a failing program weeks before nationwide rollout, rebuilt telemetry and orchestration, and stabilized 98%+ of deployments within two weeks.
+- Built and scaled a new Denver engineering site from zero to 25 engineers, rebuilding a dysfunctional org while maintaining business continuity.
+
+Principal Software Development Manager, Microsoft (2008-2014)
+Advertising Platform (Bing Ads)
+
+- Designed and drove launch of a self-service Google Ads import workflow that materially accelerated advertiser growth and revenue.
+- Scaled Microsoft Advertising Editor from limited beta to full GA, growing usage by 200x and earning a Microsoft Gold Star award.
+
+Principal Software Development Manager, Microsoft (2004-2008)
+Windows (Core Operating System Division)
+
+- Led engineering team responsible for Microsoft Application Compatibility Toolkit used by enterprise customers to proactively identify and remediate compatibility issues.
+- Owned feature planning and delivery for core toolkit components.
+
+SKILLS
+
+Distributed Systems · Platform Architecture · Organizational Scaling · Product & Business Strategy · Operational Excellence · Talent Development · Executive Communication
+
+Technical: Cloud platforms (AWS), large-scale data systems, IoT & device platforms, advertising systems
+
+EDUCATION
+
+B.S. Computer Science — Auburn University
+
+AWARDS
+
+Amazon Bar Raiser · Microsoft Gold Star Award · ADP Innovation Excellence Award
