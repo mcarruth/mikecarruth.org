@@ -1,55 +1,53 @@
 MICHAEL CARRUTH
-ENGINEERING & PRODUCT LEADER | AI PLATFORMS AND DISTRIBUTED SYSTEMS
+ENGINEERING LEADER | AGENTIC AI
 mikecarruth@gmail.com  |  linkedin.com/in/mikecarruth  |  mikecarruth.org
 
-PROFESSIONAL SUMMARY
-Hands-on engineering and product leader with 20+ years at Amazon and Microsoft who fixes what's broken, builds what's missing, and stabilizes what's failing. Combines deep platform architecture expertise with a track record of building and leading organizations of up to 100+ people. Takes emerging technologies into production, from zero-to-one agentic AI systems to global-scale cloud and advertising platforms.
+PROFILE
+Built Amazon Ads Agent, Amazon Ads' first agentic experience, from an empty team to an unBoxed launch in under a year. Owned the agent harness end to end. 20 years leading platform engineering at Amazon and Microsoft, building teams from zero and shipping systems at global scale.
 
-CORE CAPABILITIES
-Agentic AI Platforms | Architecture & Distributed Systems | Zero-to-One Product Delivery | Engineering Organization Leadership | Developer Platforms & Extensibility | Cross-Organizational Technical Strategy
+FOCUS
+Agent Harness Engineering | Evals | Tool & MCP Integration | Zero-to-One Product Delivery | Building Engineering Teams | Cross-Org Platform Strategy
 
-PROFESSIONAL EXPERIENCE
+EXPERIENCE
 
 AMAZON | Senior Software Development Manager, Amazon Ads | 2026-Present
-Agentic AI Platform
-- Founded and lead a 25-person engineering and technical program organization, with leaders including a Senior Software Development Manager and three Principal Technical Program Managers.
-- Led a zero-to-one agentic AI product from conception through public launch in 25 markets worldwide; accountable for technical strategy, platform architecture, and engineering delivery.
-- Defined the agent platform's orchestration and extensibility architecture, including standardized tool integration, skills, durable knowledge, and evaluation infrastructure.
-- Drive technical alignment and program execution across organizational boundaries within a 10,000-person engineering organization, reconciling competing approaches and complex dependencies.
+Ads Agent (advertising.amazon.com/solutions/products/ads-agent)
+- Founded the team and built Amazon Ads Agent, Amazon Ads' first agentic experience. Advertisers describe what they want in plain language and get insights, recommendations, and actions across planning, campaign creation, optimization, and measurement for Sponsored Ads, DVA, and AMC.
+- Ads Agent was featured throughout unBoxed 2026; presented it in a breakout session with agency customer Harvest Group.
+- Owned the harness: agent loop, tool and MCP integration, skills architecture, context management, guardrails, and the eval system that gates every release.
+- Designed it as one orchestration layer that product teams across 5 VP orgs plug into, the first horizontal integration across Amazon Ads.
+- Shipped in 25 markets and 20+ languages, rolling out to 300K+ advertisers.
+- Built the org from zero to 25 engineers and TPMs, including an SDM and three Principal TPMs.
+
+CAREER BREAK | Travel | 2022-2025
 
 AMAZON | Senior Software Development Manager, Devices Software & Services | 2020-2022
 Setup, Connectivity & IoT Platforms
-- Led device setup and messaging platform expansion supporting more than 100 million concurrent connections; reduced latency by over 50% in India.
-- Challenged a flawed revenue model three months before hardware launch, preserving an $8 million investment and enabling on-time delivery; the replacement model, built on real customer acquisition data, changed how Devices evaluates product viability.
-- Recovered a failed device beta within two weeks by refocusing on customer trust and changing firmware behavior; improved customer ratings from 2.0 to 4.5 stars.
-- Built operating review, talent calibration, and succession planning mechanisms that stabilized execution and improved promotion and retention outcomes.
+- Scaled device setup and messaging platforms to 100M+ concurrent connections; cut latency in India by more than half.
+- Killed a flawed revenue model three months before hardware launch, saving an $8M investment and holding the launch date.
+- Recovered a failed device beta in two weeks by changing firmware behavior; ratings went from 2.0 to 4.5 stars.
 
 AMAZON | Senior Software Development Manager, Advertising | 2019-2020
 Sponsored Brands & Video
-- Grew an engineering organization from 50 to more than 75 people across two sites, supporting multi-billion-dollar advertising platforms.
-- Launched Advertiser Strategies, enabling more than 25% year-over-year growth in advertiser spend through improved campaign optimization and targeting.
+- Grew the org from 50 to 75+ people across two sites on multi-billion-dollar ad platforms.
+- Launched Advertiser Strategies, driving 25%+ year-over-year growth in advertiser spend.
 
 AMAZON | Senior Software Development Manager, Devices Software & Services | 2014-2019
 Offline Retail Platform
-- Led a platform enabling device sales in 15 countries through 500 retailers; architected technology supporting Amazon's first 100+ physical retail kiosks and in-store programs at Kohl's, Whole Foods, malls, and airports.
-- Automated sales and operations planning, reducing planning cost 75%, shortening cycles from monthly to daily, and halving out-of-stock rates.
-- Recovered a failing nationwide rollout by rebuilding telemetry and deployment orchestration; stabilized more than 98% of deployments within two weeks.
-- Established and grew a Denver engineering site from zero to 25 engineers.
+- Built the platform behind Amazon device sales through 500 retailers in 15 countries, including Amazon's first 100+ physical kiosks.
+- Automated sales and operations planning: 75% lower cost, monthly cycles to daily, out-of-stocks cut in half.
+- Founded the Denver engineering site and grew it from zero to 25 engineers.
 
 MICROSOFT | Principal Software Development Manager, Bing Ads | 2008-2014
-Advertising Platforms
-- Designed and launched a self-service Google Ads import workflow that materially accelerated advertiser growth and revenue.
-- Scaled Microsoft Advertising Editor from limited beta to general availability; grew usage 200-fold and received a Microsoft Gold Star Award.
+- Took Microsoft Advertising Editor from limited beta to GA; usage grew 200x. Gold Star Award.
+- Shipped self-service Google Ads import, a major driver of advertiser growth.
 
 MICROSOFT | Principal Software Development Manager, Windows | 2004-2008
-Core Operating System Division
-- Led the team responsible for Microsoft Application Compatibility Toolkit, helping enterprise customers identify and remediate software compatibility issues.
+- Led the Application Compatibility Toolkit team.
 
 TECHNICAL EXPERTISE
-Agent orchestration, tool integration / MCP, skills and knowledge architecture, evaluation systems; AWS and cloud platforms; high-scale messaging, device connectivity, advertising platforms
+Agent harnesses: agent loops, tool and MCP integration, skills, context management, guardrails, eval systems. AWS and cloud platforms. High-scale messaging and device connectivity. Advertising platforms.
 
-EDUCATION
+EDUCATION & RECOGNITION
 B.S., Computer Science, Auburn University
-
-AWARDS AND RECOGNITION
 Amazon Bar Raiser | Microsoft Gold Star Award | ADP Innovation Excellence Award
