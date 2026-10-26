@@ -1,0 +1,53 @@
+MICHAEL CARRUTH
+ENGINEERING MANAGER | AGENT & DEVELOPER PLATFORMS
+mikecarruth@gmail.com  |  linkedin.com/in/mikecarruth  |  mikecarruth.org
+
+PROFILE
+Engineering manager who builds platforms other teams build on. Founded the team behind Amazon Ads Agent and owned its LLM agent harness end to end: the agent loop, tool and MCP integration, guardrails, and the eval system that gates every release. Designed it as a shared orchestration layer that product teams across 5 VP orgs integrate with, and took it from an empty team to an unBoxed launch in under a year. 20 years leading platform and distributed-systems engineering at Amazon and Microsoft, including systems with 100M+ concurrent connections, and building teams from zero.
+
+FOCUS
+Agent Infrastructure on LLMs | Platform & Integration Design | Distributed Systems at Scale | Evals & Guardrails | Hiring & Growing Engineering Teams | Customer-Driven Roadmaps
+
+EXPERIENCE
+
+AMAZON | Senior Software Development Manager, Amazon Ads | 2026-Present
+Ads Agent (advertising.amazon.com/solutions/products/ads-agent)
+- Founded the team and built Amazon Ads Agent, Amazon Ads' first agentic experience: advertisers describe what they want in plain language and get insights, recommendations, and actions across planning, campaign creation, optimization, and measurement for Sponsored Ads, DVA, and AMC.
+- Owned the agent harness end to end: agent loop, tool and MCP integration, skills architecture, context management, and guardrails, plus the eval system that gates every release.
+- Designed it as a single orchestration platform that product teams across 5 VP orgs plug their capabilities into, the first horizontal integration across Amazon Ads. Set the integration model and drove adoption across orgs.
+- Shipped in 25 markets and 20+ languages, rolling out to 300K+ advertisers.
+- Ads Agent was featured throughout unBoxed 2026; presented it in a breakout session with agency customer Harvest Group and fed customer feedback into the roadmap.
+- Built the org from zero to 25 engineers and TPMs, including an SDM and three Principal TPMs; hired, coached, and ran performance management.
+
+CAREER BREAK | Travel | 2022-2025
+
+AMAZON | Senior Software Development Manager, Devices Software & Services | 2020-2022
+Setup, Connectivity & IoT Platforms
+- Scaled device setup and messaging platforms to 100M+ concurrent connections; cut latency in India by more than half.
+- Killed a flawed revenue model three months before hardware launch, saving an $8M investment and holding the launch date.
+- Recovered a failed device beta in two weeks by changing firmware behavior; ratings went from 2.0 to 4.5 stars.
+
+AMAZON | Senior Software Development Manager, Advertising | 2019-2020
+Sponsored Brands & Video
+- Grew the org from 50 to 75+ people across two sites on multi-billion-dollar ad platforms.
+- Launched Advertiser Strategies, driving 25%+ year-over-year growth in advertiser spend.
+
+AMAZON | Senior Software Development Manager, Devices Software & Services | 2014-2019
+Offline Retail Platform
+- Built the platform behind Amazon device sales through 500 retailers in 15 countries, including Amazon's first 100+ physical kiosks.
+- Automated sales and operations planning: 75% lower cost, monthly cycles to daily, out-of-stocks cut in half.
+- Founded the Denver engineering site and grew it from zero to 25 engineers.
+
+MICROSOFT | Principal Software Development Manager, Bing Ads | 2008-2014
+- Took Microsoft Advertising Editor from limited beta to GA; usage grew 200x. Gold Star Award.
+- Shipped self-service Google Ads import, a major driver of advertiser growth.
+
+MICROSOFT | Principal Software Development Manager, Windows | 2004-2008
+- Led the Application Compatibility Toolkit team.
+
+TECHNICAL EXPERTISE
+LLM agent infrastructure: agent loops, tool and MCP integration, skills, context management, guardrails, eval systems. Distributed systems on AWS: high-scale messaging and device connectivity (100M+ concurrent connections). Multi-team platform integration. Advertising platforms.
+
+EDUCATION & RECOGNITION
+B.S., Computer Science, Auburn University
+Amazon Bar Raiser | Microsoft Gold Star Award | ADP Innovation Excellence Award
