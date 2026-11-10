@@ -3,7 +3,7 @@ ENGINEERING LEADER | AGENTIC AI
 mikecarruth@gmail.com  |  linkedin.com/in/mikecarruth  |  mikecarruth.org
 
 PROFILE
-Built Amazon Ads Agent, Amazon Ads' first agentic experience, from an empty team to an unBoxed launch in under a year. Owned the agent harness end to end. 20 years leading platform engineering at Amazon and Microsoft, building teams from zero and shipping systems at global scale.
+Built Amazon Ads Agent, Amazon Ads' first agentic experience, from an empty team to an unBoxed launch in under a year. Owned the agent harness end to end. 20 years leading platform engineering at Amazon and Microsoft, building teams from zero and shipping systems at global scale. Amazon Bar Raiser since 2016, with 500+ interviews.
 
 FOCUS
 Agent Harness Engineering | Evals | Tool & MCP Integration | Zero-to-One Product Delivery | Building Engineering Teams | Cross-Org Platform Strategy
