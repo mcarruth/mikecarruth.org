@@ -14,29 +14,29 @@ AMAZON | Senior Software Development Manager, Amazon Ads | 2026-Present
 Ads Agent (advertising.amazon.com/solutions/products/ads-agent)
 - Founded the team and built Amazon Ads Agent, Amazon Ads' first agentic experience. Advertisers describe what they want in plain language and get insights, recommendations, and actions across planning, campaign creation, optimization, and measurement for Sponsored Ads, DVA, and AMC.
 - Ads Agent was featured throughout unBoxed 2026; presented it in a breakout session with agency customer Harvest Group.
-- Owned the harness: agent loop, tool and MCP integration, skills architecture, context management, guardrails, and the eval system that gates every release.
-- Designed it as one orchestration layer that product teams across 5 VP orgs plug into, the first horizontal integration across Amazon Ads.
+- Owned the harness: agent loop, tool and MCP integration, context management, orchestration, guardrails, and the orchestrator eval system that gates every release.
+- Designed it as one orchestration layer that product teams across 5 VP orgs plug into, the first horizontal agentic integration across Amazon Ads.
 - Shipped in 25 markets and 20+ languages, rolling out to 300K+ advertisers.
-- Built the org from zero to 25 engineers and TPMs, including an SDM and three Principal TPMs.
+- Built the org from zero to 25 engineers and TPMs across two sites in four months.
 
-CAREER BREAK | Travel | 2022-2025
+CAREER BREAK | 2022-2025
 
 AMAZON | Senior Software Development Manager, Devices Software & Services | 2020-2022
 Setup, Connectivity & IoT Platforms
 - Scaled device setup and messaging platforms to 100M+ concurrent connections; cut latency in India by more than half.
-- Killed a flawed revenue model three months before hardware launch, saving an $8M investment and holding the launch date.
+- Replaced a flawed device revenue model three months before hardware launch, saving an $8M investment and holding the launch date.
 - Recovered a failed device beta in two weeks by changing firmware behavior; ratings went from 2.0 to 4.5 stars.
 
 AMAZON | Senior Software Development Manager, Advertising | 2019-2020
 Sponsored Brands & Video
-- Grew the org from 50 to 75+ people across two sites on multi-billion-dollar ad platforms.
+- Led the Sponsored Brands engineering and product org; grew it from 50 to 75+ people across two sites on multi-billion-dollar ad platforms.
 - Launched Advertiser Strategies, driving 25%+ year-over-year growth in advertiser spend.
 
 AMAZON | Senior Software Development Manager, Devices Software & Services | 2014-2019
 Offline Retail Platform
-- Built the platform behind Amazon device sales through 500 retailers in 15 countries, including Amazon's first 100+ physical kiosks.
+- Led the offline sales, inventory, and promotion planning platform behind Amazon device sales through 500 retailers in 15 countries, including Amazon's first 100+ physical kiosks.
 - Automated sales and operations planning: 75% lower cost, monthly cycles to daily, out-of-stocks cut in half.
-- Founded the Denver engineering site and grew it from zero to 25 engineers.
+- Founded the Denver Devices engineering site and grew it from zero to 25 engineers.
 
 MICROSOFT | Principal Software Development Manager, Bing Ads | 2008-2014
 - Took Microsoft Advertising Editor from limited beta to GA; usage grew 200x. Gold Star Award.
