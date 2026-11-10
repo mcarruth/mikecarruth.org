@@ -50,4 +50,4 @@ Agent harnesses: agent loops, tool and MCP integration, skills, context manageme
 
 EDUCATION & RECOGNITION
 B.S., Computer Science, Auburn University
-Amazon Bar Raiser | Microsoft Gold Star Award | ADP Innovation Excellence Award
+Microsoft Gold Star Award | ADP Innovation Excellence Award
